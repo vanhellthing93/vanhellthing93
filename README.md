@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-- 🌱 I’m MEPHI stundent & currently learning Java, JS & Python
+- 🌱 I’m MEPHI student & currently learning Java, JS & Python
